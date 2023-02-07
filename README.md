@@ -16,15 +16,48 @@ $ git clone https://github.com/MariaGabrielaReis/frontend-testing-practice.git
 # Instale as dependências do projeto, assim como suas tipagens
 $ yarn
 
-# Execute a aplicação
-$ yarn dev
-
-# O site inciará na porta:3000 - acesse http://localhost:3000
+# Execute os testes da aplicação
+$ yarn test
 ```
 
 ## :computer: Demonstração
+Abaixo pode-se observar os testes gerados para cada  página e componente (para mais detalhes acesse os menus a seguir):
 
-> Em breve...
+<div align="center"> <img src="https://user-images.githubusercontent.com/69374340/217331784-f129d231-8202-4799-806a-9cc6d6f1bed5.png" alt="Testes gerais"/> </div>
+
+<details>
+ <summary>Testes de cada <b>página</b>:</summary>
+ <br>
+
+- Home
+<img src="https://user-images.githubusercontent.com/69374340/217332430-133d9cd7-36e1-444d-9893-82b0b26f9c64.png" height="100px"/>
+
+- Posts
+<img src="https://user-images.githubusercontent.com/69374340/217333793-33a718c5-ac6c-4caa-a327-093e8fc718b2.png" height="98px"/>
+
+- Post Preview
+<img src="https://user-images.githubusercontent.com/69374340/217332080-33987e08-5030-4ad5-ba3a-2471b21efe88.png" height="120px"/>
+
+- Post
+<img src="https://user-images.githubusercontent.com/69374340/217333336-4835d7ce-369d-4fee-b67f-14ff39fb46b4.png" height="120px"/>
+</details>
+
+<details>
+ <summary>Testes de cada <b>componente</b>:</summary>
+ <br>
+
+- Componente "assíncrono" de exemplo
+<img src="https://user-images.githubusercontent.com/69374340/217334517-c844d879-3ed5-4907-87b9-fc26726f0299.png" height="110px"/>
+
+- Header
+<img src="https://user-images.githubusercontent.com/69374340/217334403-f35f776b-f5c4-4609-a555-40e16aaffcdf.png" height="70px"/>
+
+- Subscribe button
+<img src="https://user-images.githubusercontent.com/69374340/217334722-c97f2115-efdc-44c0-a796-870e17d85c8a.png" height="122px"/>
+
+- Active Link
+<img src="https://user-images.githubusercontent.com/69374340/217334815-c7b041c8-623d-45ad-b610-a5cbfb47f2b6.png" height="100px"/>
+</details>
 
 <br>
 
